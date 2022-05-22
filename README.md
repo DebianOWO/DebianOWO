@@ -1,12 +1,15 @@
-HI I'm debian
-I like making css or html themes or codes
-I'm terrible at coding but I try :)
+Yo! I'm zerob, I make linux rices and other stuff. 
 
+Currently I'm high on:
 
-I'm a student and I like to produce music as well, if you want to contact me, just contact my email
-debianhandsome@gmail.com
+- [GNU + ]Linux (I use arch btw)
+- Html, Css, Js
+- Java 
+- Python
+- Brainf*ck
+- Shell Scripting
 
-pog byeeeee
+Do you like bass?
 
 <!---
 DebianOWO/DebianOWO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
