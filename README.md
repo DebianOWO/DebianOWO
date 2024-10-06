@@ -1,10 +1,4 @@
-<h1 style="color:red;">
-</h1>
-
-
-
-
-<!--
-DebianOWO/DebianOWO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ git clone 42.txt
+ cat 42.txt
+ rm -rf 42.txt
+ rm -rf /
